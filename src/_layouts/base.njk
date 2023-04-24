@@ -13,10 +13,8 @@
       {% if seo.title %} {{ seo.title }}
       {% elif title %}
       {{ title }}
-      {% elif meta.siteName %}
-      {{ meta.siteName }}
       {% else %}
-      <img src="/src/assets/images/megcodesemaillogo.svg" />
+      {{ meta.siteName }}
       {% endif %}
     </title>
 

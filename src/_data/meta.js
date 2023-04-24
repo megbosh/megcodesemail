@@ -16,9 +16,9 @@ module.exports = {
     opengraph_default: '/assets/images/opengraph-default.jpg', // fallback/default meta image
     opengraph_default_alt:
       'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
-    twitterSite: '', // i.e. @site - twitter profile of the site
-    twitterCreator: '', /@megcodesemail/ i.e. @author -  twitter profile of the site
-    mastodonProfile: '' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    twitterSite: '',
+    twitterCreator: '@megcodesemail',
+    mastodonProfile: ''
   },
   blog: {
     // this is for the rss feed

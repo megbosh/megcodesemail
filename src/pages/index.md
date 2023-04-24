@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 title: 'MegCodesEmail'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+description: 'MegCodesEmail is run by Megan Boshuyzen'
 layout: 'home'
 blog:
   title: 'Recent Work'

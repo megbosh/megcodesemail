@@ -13,7 +13,7 @@ module.exports = {
   themeColor: '#58153E', //  Manifest: defines the default theme color for the application
   themeBgColor: '#ffffff', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
-    opengraph_default: '/assets/images/logo.svg', // fallback/default meta image
+    opengraph_default: '/assets/images/src/megcodesemaillogo.svg', // fallback/default meta image
     opengraph_default_alt:
       'Visible content: MegCodesEmail logo ', // alt text for default meta image
     twitterSite: '',

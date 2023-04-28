@@ -9,5 +9,4 @@ blog:
 ---
 
 ## Hi, I'm Megan!
-
-I'm a graphic designer turned email developer who builds accessible and responsive email campaigns.
+I'm a graphic designer turned award-winning email developer who builds accessible and responsive email campaigns.

@@ -5,8 +5,8 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Blog',
-      url: '/blog/'
+      text: 'Work',
+      url: '/work/'
     },
     {
       text: 'Newsletter',

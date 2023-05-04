@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/index.html
-description: About
+description: About this starter
 layout: page
 youtube: false
 ---

@@ -5,6 +5,7 @@
   background-size: 100%;
   background-clip: text;
   position: relative;
+  margin-bottom: 6rem;
 }
 
 h1.gradient-text::before, h1.gradient-text::after {
@@ -16,12 +17,12 @@ h1.gradient-text::before, h1.gradient-text::after {
 
 h1.gradient-text::before {
   content: '<!--';
-  top: -49px;
-  left: -8px;
+  top: -3.3rem;
+  left: 0
 }
 
 h1.gradient-text::after {
   content: '-->';
-  top: 0px;
-  left: 0x;
+  top: 9rem;
+  left: 21.2rem;
 }

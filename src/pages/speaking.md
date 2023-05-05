@@ -11,17 +11,17 @@ I love to speak at conferences and join as a guest on podcast. I can speak about
 
 
 
-##Writing
+## Writing
 …it depends, a monthly newsletter about email marketing
 
-##Podcasts
+## Podcasts
 Humans of Email
 Email’s Not Dead
 Inboxing
 Email Einstein
 Email and Coffee
 
-##Conferences
+## Conferences
 InboxExpo
 Litmus Live
 Email Camp

@@ -1,6 +1,6 @@
 .gradient-text {
   color: transparent;
-  background: linear-gradientlinear-gradient(49deg, var(--color-primary) 0%, var(--color-secondary) 60%);
+  background: linear-gradient(49deg, var(--color-primary) 0%, var(--color-secondary) 60%);
   padding: 1.5rem 0;
   background-size: 100%;
   background-clip: text;

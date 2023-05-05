@@ -1,7 +1,27 @@
 .gradient-text {
   color: transparent;
-  background: linear-gradient(49deg, var(--color-primary) 0%, var(--color-secondary) 60%);
+  background: var(--color-primary);
   padding: 1.5rem 0;
   background-size: 100%;
   background-clip: text;
+  position: relative;
+}
+
+h1.gradient-text::before, h1.gradient-text::after {
+  content:"";
+  font-size: 75%;
+  position: absolute;
+  color: var(--color-secondary);
+}
+
+h1.gradient-text::before {
+  content: '<!--';
+  top: -49px;
+  left: -8px;
+}
+
+h1.gradient-text::after {
+  content: '-->';
+  top: 0px;
+  left: 0x;
 }

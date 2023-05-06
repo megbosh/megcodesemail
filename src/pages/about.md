@@ -1,7 +1,7 @@
 ---
-title: About
+title: about
 permalink: /about/index.html
-description: About this starter
+description: About Megan Boshuyzen
 layout: page
 youtube: false
 ---

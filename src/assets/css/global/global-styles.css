@@ -52,7 +52,7 @@ h3 {
   max-width: 20ch;
 }
 
-h1 + p {
+.subheader {
   margin: 0 auto;
   padding-top: 1rem;
   font-size: 100%;

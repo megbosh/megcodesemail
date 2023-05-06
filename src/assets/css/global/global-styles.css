@@ -15,8 +15,6 @@ body {
 
 /* Base typesetting */
 
-
-
 h1,
 h2,
 h3 {
@@ -52,6 +50,12 @@ h1,
 h2,
 h3 {
   max-width: 20ch;
+}
+
+h1 + p {
+  margin: 0 auto;
+  padding-top: 1rem;
+  font-size: 100%;
 }
 
 blockquote {

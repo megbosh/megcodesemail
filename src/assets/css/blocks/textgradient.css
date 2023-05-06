@@ -1,11 +1,11 @@
 .gradient-text {
-  color: transparent;
-  background: var(--color-primary);
+  color: var(--color-primary);
   padding: 1.5rem 0;
   background-size: 100%;
   background-clip: text;
   position: relative;
   margin-bottom: 6rem;
+  width: fit-content;
 }
 
 h1.gradient-text::before, h1.gradient-text::after {
@@ -24,6 +24,6 @@ h1.gradient-text::before {
 h1.gradient-text::after {
   content: '-->';
   top: 9rem;
-  left: 41%;
+  left: 0;
   text-align: right;
 }

@@ -10,9 +10,10 @@ preloads:
 
 <article class="region blog">
   <div class="wrapper flow prose">
+  <img src="{{image}}" />
     <h1 class="gradient-text">{{ title }}</h1>
 
-    {% set definedDate = date %} {% include "partials/date.njk" %}
+   {% comment %} {% set definedDate = date %} {% include "partials/date.njk" %} {% endcomment %}
 
     {{ content | safe }}
   </div>

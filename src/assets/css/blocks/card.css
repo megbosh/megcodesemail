@@ -16,6 +16,11 @@
   font-size: var(--size-step-3);
 }
 
+.card div {
+  padding-left: var(--space-m-l);
+  padding-right: var(--space-m-l);
+}
+
 .card h2 a,
 .card h3 a {
   text-decoration: none;

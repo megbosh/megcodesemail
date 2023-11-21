@@ -11,6 +11,9 @@ Design and Code: Megan Boshuyzen, Senior Email Developer
 
 [Announcement Email](https://parcel.io/e/3a06ec55-02ee-4727-b400-38dcb39a2a5c?layout=preview)
 
+{% for repository in github  %}
+{% if repository.stargazers_count > 0 %}
+
 ## [{{ repository.name }}]({{ repository.html_url }})
 
 {% include 'svg/star.svg' %} {{ repository.stargazers_count }} / {{ repository.description }}

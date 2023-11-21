@@ -6,9 +6,7 @@ layout: page
 youtube: false
 ---
 
-Hi! I'm Megan, and currently I’m the Senior Email Developer at Sinch Email. I oversee the email design system and develop emails for all Sinch Email brands, which include Mailgun, Mailjet, Email on Acid, and InboxReady. Besides coding up some really cool emails, I act as a developer advocate to the email community, contributing to the Email on Acid blog and host Email on Acid’s “Notes from the Dev: Video Edition”
-
-Outside of my work duties, I’m a part of the Email Markup Consortium and write the monthly newsletter “…it depends”.
+Hi! I'm Megan, and currently I’m the Senior Email Developer at Sinch. I oversee the email design system and develop emails for all Sinch Email brands, which include Sinch Mailgun, Sinch Mailjet, and Sinch Email on Acid. Besides coding up some really cool emails, I act as a developer advocate to the email community, contributing to the Email on Acid blog and host Email on Acid’s “Notes from the Dev: Video Edition”
 
 I believe in being a good human. What does this mean? In my work life, this means developing good, accessible emails that can be read by anyone, anywhere, no matter their abilities or device set up. 
 

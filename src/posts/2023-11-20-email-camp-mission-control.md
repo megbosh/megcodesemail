@@ -2,6 +2,7 @@
 title: 'Email Camp 2023'
 description: 'Email Camp 2023'
 date: 2023-11-20
+image: 'https://via.placeholder.com/1200x600'
 ---
 
 Brand Assets: Kim Kirby, Graphic Designer

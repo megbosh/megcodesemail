@@ -32,8 +32,8 @@ layout: base
     {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
 
     <li class="card flow overflow-hidden">
-      <h3>
       <img src="{{ post.data.image }}" />
+      <h3>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h3>
       {% set definedDate = post.date %} {% include "partials/date.njk" %}

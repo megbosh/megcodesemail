@@ -12,7 +12,7 @@ I love to speak at conferences and join as a guest on podcast. I can speak about
 
 
 ## Writing
-[…it depends, a monthly newsletter about email marketing] (https://itdependsnewsletter.beehiiv.com/)
+[…it depends, a monthly newsletter about email marketing](https://itdependsnewsletter.beehiiv.com/)
 
 ## Podcasts
 - Humans of Email: [on Determination, the Constraints of Email & Lifting Heavy Things](https://open.spotify.com/episode/3DarF7xEnkF5ILOmIsmxVL?si=76c75340017c4e3e)

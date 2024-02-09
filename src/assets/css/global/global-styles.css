@@ -35,7 +35,7 @@ h3 {
   font-size: var(--size-step-2);
 }
 
-p {
+p, li {
   font-size: var(--size-step-0);
 }
 

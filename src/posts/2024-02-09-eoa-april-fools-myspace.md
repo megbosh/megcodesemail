@@ -1,7 +1,7 @@
 ---
 title: 'Email on Acid April Fool's Day 2023
 description: 'April Fool's 2023'
-date: 2023-11-20
+date: 2024-02-09
 image: 'https://github.com/megbosh/megcodesemail/blob/main/src/assets/images/email-camp-2023.jpg?raw=true'
 ---
 

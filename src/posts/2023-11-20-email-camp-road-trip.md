@@ -2,7 +2,6 @@
 title: 'Email Camp 2022'
 description: 'Email Camp 2022'
 date: 2023-11-20
-image: 'https://github.com/megbosh/megcodesemail/blob/main/src/assets/images/email-camp-2023.jpg?raw=true'
 ---
 
 Brand Assets: Kim Kirby, Graphic Designer

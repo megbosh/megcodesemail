@@ -2,7 +2,6 @@
 title: 'Email on Acid April Fools Day 2023'
 description: 'April Fools 2023'
 date: 2024-02-09
-image: 'https://github.com/megbosh/megcodesemail/blob/main/src/assets/images/email-camp-2023.jpg?raw=true'
 ---
 
 Brand Assets: Kim Kirby, Graphic Designer

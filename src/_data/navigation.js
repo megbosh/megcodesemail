@@ -2,7 +2,7 @@ module.exports = {
   top: [
     {
       text: 'Recent Work',
-      url:'/post/'
+      url:'/blog/'
     },
     {
       text: 'About',

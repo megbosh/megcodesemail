@@ -6,8 +6,12 @@
   font-size: var(--size-step-3);
 }
 
-.blog h3 {
+.blog h3, .blog-card h2 {
   font-size: var(--size-step-2);
+}
+
+.blog-card h2 {
+  color:var(--color-light);
 }
 
 .blog img {

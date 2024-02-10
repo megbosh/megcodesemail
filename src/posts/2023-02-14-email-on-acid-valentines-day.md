@@ -1,4 +1,5 @@
 ---
+schema: 'blog'
 title: 'Email on Acid Valentines Day'
 description: 'Email on Acid Valentines Day'
 date: 2023-02-14

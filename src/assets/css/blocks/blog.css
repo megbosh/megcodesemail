@@ -4,6 +4,7 @@
 
 .blog h2 {
   font-size: var(--size-step-3);
+  color: #fff;
 }
 
 .blog h3 {

@@ -1,6 +1,7 @@
 ---
-title: 'Mailjet AI Announcement'
+title: 'AI Announcement'
 description: 'Mailjet AI Announcement'
+category: 'Mailjet'
 date: 2024-02-09
 ---
 

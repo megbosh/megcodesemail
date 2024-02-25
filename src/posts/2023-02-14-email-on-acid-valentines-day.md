@@ -1,6 +1,6 @@
 ---
-title: 'Email on Acid Valentines Day'
-description: 'Email on Acid Valentines Day'
+title: 'Valentines Day'
+description: 'Valentines Day'
 category: 'Email on Acid'
 date: 2023-02-14
 ---

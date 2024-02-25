@@ -1,6 +1,7 @@
 ---
 title: 'Mailjet Form Builder Annoucement'
 description: 'Mailjet Form Builder Annoucement'
+category: 'Mailjet'
 date: 2024-02-09
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 'Mailjet Email Academy'
-description: 'Mailjet Email Academy'
+description: 'Email Academy'
+category: 'Mailjet'
 date: 2024-02-09
 ---
 

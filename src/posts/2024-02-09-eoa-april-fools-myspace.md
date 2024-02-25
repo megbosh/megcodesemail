@@ -1,6 +1,7 @@
 ---
-title: 'Email on Acid April Fools Day 2023'
+title: 'April Fools Day 2023'
 description: 'April Fools 2023'
+category: 'Email on Acid'
 date: 2024-02-09
 ---
 

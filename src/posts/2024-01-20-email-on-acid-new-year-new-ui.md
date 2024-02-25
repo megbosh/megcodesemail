@@ -1,6 +1,7 @@
 ---
-title: 'Email on Acid New Year New UI'
-description: 'Email on Acid New Year New UI'
+title: New Year New UI'
+description: 'New Year New UI'
+category: 'Email on Acid'
 date: 2024-02-09
 ---
 

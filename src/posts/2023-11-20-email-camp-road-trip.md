@@ -1,6 +1,7 @@
 ---
-title: 'Email Camp 2022'
+title: 'Road Trip Edition'
 description: 'Email Camp 2022'
+category: 'Email Camp'
 date: 2023-11-20
 ---
 

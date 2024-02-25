@@ -19,12 +19,14 @@ intro: 'this is a test for the blog intro'
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% set postslist = collections.posts %} {% for post in postslist %}
 
-    <li class="card flow overflow-hidden blog-card">
-      <h2>
+      <li class="card flow overflow-hidden">
+      <img src="{{ post.data.image }}" />
+      <div>
+      <h3>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h2>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
+      </h3>
       <p>{{ post.data.description }}</p>
+      </div>
     </li>
 
     {% endfor %}

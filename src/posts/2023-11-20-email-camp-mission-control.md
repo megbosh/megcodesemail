@@ -1,5 +1,5 @@
 ---
-title: 'Email Camp 2023'
+title: 'Mission Control'
 description: 'Mission Control'
 category: 'Email Camp'
 date: 2023-11-20

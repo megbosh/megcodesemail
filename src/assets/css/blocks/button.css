@@ -1,1 +1,12 @@
 /* A blank block because there is *always* a button */
+
+button {
+margin: 0 auto;
+text-align: center;
+background-color: rebeccapurple;
+color: white;
+border-radius: 3em;
+padding: 0.5em 1em;
+border: none;
+text-decoration: none;
+}

@@ -20,7 +20,7 @@ layout: base
 
 <article class="region" style="--region-space-top: var(--space-s)">
   <div class="wrapper flow prose">
-  
+
     <h2>{{ blog.title }}</h2>
     <!-- blog intro text is optional. -->
     {% if blog.intro %}
@@ -43,5 +43,5 @@ layout: base
     </li>
     {% endfor %}
   </ul>
-  <button type="button"><a href="/blog/">See All</button>
+  <div class="btn"><button type="button"><a href="/blog/">See All</button></div>
 </article>
